@@ -18,9 +18,9 @@ Arquivos de configuração de ambiente
 api\source\src\Core\Configure\Config.php
 
 
-O arquivo readme_config mostra como configurar a API para receber as credenciais de acesso ao banco de dados e ao servidor local.
+O arquivo readme_config.pdf mostra como configurar a API para receber as credenciais de acesso ao banco de dados e ao servidor local.
 
-O arquivo readme_index mostra como executar os serviços da API via Postman para obter seus resultados.
+O arquivo readme_index.pdf mostra como executar os serviços da API via Postman para obter seus resultados.
 
 Observações:
 Acabei tendo alguns problemas ao utilizar o Docker pois estava desenvolvendo em ambiente windows, sendo assim optei por usar um servidor local (xampp) para o desenvolvimento do teste.
