@@ -24,6 +24,9 @@ O arquivo readme_index.pdf mostra como executar os serviços da API via Postman 
 
 Observações:
 Acabei tendo alguns problemas ao utilizar o Docker pois estava desenvolvendo em ambiente windows, sendo assim optei por usar um servidor local (xampp) para o desenvolvimento do teste.
+
 Os arquivos Dokerfile que estavam sendo utilizados para configuração do ambiente estão na raiz do projeto, porém como estava com dificuldades para a configuração do ambiente docker  acabei não utilizando-os.
+
 Também na pasta raiz do projeto pode ser encontrado o arquivo (bd_deliver.sql) para criação do banco de dados.
+
 O insert para a tabela oauth_client deve ser executado antes de executar qualquer outro serviço da API. O mesmo está no arquivo bd_deliver.sql
